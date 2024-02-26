@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "179TS7FKMUIwLRVIZ5A6ba2Fa7w9ZVYoQGFyuW1aGnV3p6OgTZE0mzsnDZiv8qf8xz8sVKOy8h1cKZoIiOX1fA==",
+  "dgSpecHash": "pZjpOxmil8yPDAk3h0B2vXETQs+hS2ubfBkTk4xGaI0si6QwtaYSbweyRGEStpQ0NnSAPwrLc3nQDwhdKZp37w==",
   "success": true,
-  "projectFilePath": "c:\\Users\\facum\\OneDrive\\Documentos\\GitHub\\WebPractice\\BackEnd\\TodoApi\\TodoApi.csproj",
+  "projectFilePath": "C:\\Users\\facum\\OneDrive\\Documentos\\GitHub\\WebPractice\\BackEnd\\TodoApi\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\facum\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\facum\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -15,7 +15,6 @@ namespace TodoApi.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Client>>> GetClients()
         {
-            Console.Write("asd");
 
             return await _context.Clients.ToListAsync();
         }
@@ -70,8 +69,6 @@ namespace TodoApi.Controllers
         [HttpPost]
         public async Task<ActionResult<Client>> PostClient(Client client)
         {
-            Console.Write(client);
-
             _context.Clients.Add(client);
             await _context.SaveChangesAsync();
 

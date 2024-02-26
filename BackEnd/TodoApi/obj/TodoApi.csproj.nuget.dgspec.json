@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\facum\\OneDrive\\Documentos\\GitHub\\WebPractice\\BackEnd\\TodoApi\\TodoApi.csproj": {}
+    "C:\\Users\\facum\\OneDrive\\Documentos\\GitHub\\WebPractice\\BackEnd\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\facum\\OneDrive\\Documentos\\GitHub\\WebPractice\\BackEnd\\TodoApi\\TodoApi.csproj": {
+    "C:\\Users\\facum\\OneDrive\\Documentos\\GitHub\\WebPractice\\BackEnd\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\facum\\OneDrive\\Documentos\\GitHub\\WebPractice\\BackEnd\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "C:\\Users\\facum\\OneDrive\\Documentos\\GitHub\\WebPractice\\BackEnd\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "c:\\Users\\facum\\OneDrive\\Documentos\\GitHub\\WebPractice\\BackEnd\\TodoApi\\TodoApi.csproj",
+        "projectPath": "C:\\Users\\facum\\OneDrive\\Documentos\\GitHub\\WebPractice\\BackEnd\\TodoApi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\facum\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\facum\\OneDrive\\Documentos\\GitHub\\WebPractice\\BackEnd\\TodoApi\\obj\\",
+        "outputPath": "C:\\Users\\facum\\OneDrive\\Documentos\\GitHub\\WebPractice\\BackEnd\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\facum\\AppData\\Roaming\\NuGet\\NuGet.Config"
